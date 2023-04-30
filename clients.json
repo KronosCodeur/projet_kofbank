@@ -1,0 +1,25 @@
+[
+  {
+    "nom":"K",
+    "prenom":"C",
+    "dateNaiss":"2004-10-26 00:00:00.000",
+    "telephone":"70097894","mail":"h",
+    "compte":{
+      "numCpt":"KOFBANK-KC-907",
+      "solde":5450.0,"dateCreation":"2023-04-22 17:09:21.858044",
+      "accountType":"AccountType.courant"
+    }
+  },
+  {
+    "nom":"Kronos",
+    "prenom":"Codeur",
+    "dateNaiss":"2004-10-26 00:00:00.000",
+    "telephone":"70097894",
+    "mail":"kronos@mail.com",
+    "compte":{
+      "numCpt":"KOFBANK-KC-398",
+      "solde":520000.0,
+      "dateCreation":"2023-04-22 17:11:23.449772",
+      "accountType":"AccountType.courant"}
+  }
+]
